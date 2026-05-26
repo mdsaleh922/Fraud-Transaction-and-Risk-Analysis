@@ -1,4 +1,4 @@
-# 📊 Fraud Transactions & Risk Analysis Dashboard
+# 📊 Fraud Transactions & Risk Analysis Dashboard ![Dashboard Overview](dashboard.png)
 
 An enterprise-grade data analytics and risk diagnostic intelligence framework designed to identify financial anomalies, isolate high-risk transactional vectors, and mitigate corporate capital leakage. 
 
